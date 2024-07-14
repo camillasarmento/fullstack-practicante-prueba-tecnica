@@ -24,7 +24,7 @@ const ToDo = ({ todo, toggleComplete, deleteTodo, editTodo }) => {
                         value={newText}
                         onChange={(e) => setNewText(e.target.value)}
                     />
-                    <button onClick={handleSave}>Save</button>
+                    <button onClick={handleSave} className="save-button">Save</button>
                 </>
             ) : (
                 <>
@@ -34,8 +34,11 @@ const ToDo = ({ todo, toggleComplete, deleteTodo, editTodo }) => {
                     >
                         {todo.text}
                     </p>
-                    <button onClick={handleEdit}>Edit</button>
-                    <button onClick={() => deleteTodo(todo.id)}>Delete</button>
+                    {todo.completed && (
+                        <button onClick={() => toggleComplete(todo.id)} className="undo-button">Undo</button>
+                    )}
+                    <button onClick={handleEdit} className="edit-button">Edit</button>
+                    <button onClick={() => deleteTodo(todo.id)} className="delete-button">Delete</button>
                 </>
             )}
         </div>
