@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf47773-731d-4557-95a2-b1fb5f2f5419" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bomb-Attack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/.idea/aruba.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/Ejercicio4_paginas_enlazadas_HTML_Inicio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/Ejercicio4_paginas_enlazadas_HTML_Montanas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/books.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/strand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/topo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/whattodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aruba/whyaruba.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/.idea/libreria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/bike.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/daunt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/jane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/raven.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/images/wonder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libreria/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telefone" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/.idea/thekillers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/Homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/Homepage_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/01741EC5-6C89-4FD1-9104-126B1CAF6BCC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/53D967DD-41AA-490C-98BB-ADB216C5B219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/607655E4-50D6-4D26-8C64-64FE8BB15D97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/73679893-B056-421D-BB0F-C6DDE9583B8C.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/769F7542-7E6F-493F-86FA-BAC505A7695D.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/9699ABB2-DDFF-4B64-B4A8-70FE67204900.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/A494ADB4-8299-42CF-B10A-EE14B067BDE1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/AO-arena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/BC5CA606-ED32-4495-B960-E0D9418FB57B.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/D3C6B317-39AB-4FD8-9F0D-79295A674713.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/F8B986FE-ADD3-4EAB-887D-0EAE0229CB6F.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/O2-arena.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/cuenca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/fest-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/san-siro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thekillers/imgs/sardindero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../women" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jF0fa3vDMkAvDw1CtJHQENi0N3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.burbuja.js.executor": "Run",
+    "Node.js.busquedabinaria.js.executor": "Run",
+    "Node.js.fibonacci.js.executor": "Run",
+    "Node.js.numerosprimos.js.executor": "Run",
+    "Node.js.palindromo.js.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/camil/WebstormProjects/logic_exercises.js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf47773-731d-4557-95a2-b1fb5f2f5419" name="Changes" comment="" />
+      <created>1720967622043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720967622043</updated>
+      <workItem from="1720967623112" duration="2084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
