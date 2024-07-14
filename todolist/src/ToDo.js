@@ -1,4 +1,3 @@
-// src/ToDo.js
 import React, { useState } from 'react';
 import './ToDoList.css';
 
@@ -13,6 +12,12 @@ const ToDo = ({ todo, toggleComplete, deleteTodo, editTodo }) => {
     const handleSave = () => {
         editTodo(todo.id, newText);
         setIsEditing(false);
+    };
+
+    const handleDelete = () => {
+        if (window.confirm('Are you sure you want to delete this to-do?')) {
+            deleteTodo(todo.id);
+        }
     };
 
     return (
@@ -38,7 +43,7 @@ const ToDo = ({ todo, toggleComplete, deleteTodo, editTodo }) => {
                         <button onClick={() => toggleComplete(todo.id)} className="undo-button">Undo</button>
                     )}
                     <button onClick={handleEdit} className="edit-button">Edit</button>
-                    <button onClick={() => deleteTodo(todo.id)} className="delete-button">Delete</button>
+                    <button onClick={handleDelete} className="delete-button">Delete</button>
                 </>
             )}
         </div>
